@@ -11,7 +11,7 @@ RUN npm install && \
 
 
 ### STAGE 2: Run ###
-FROM quay.io/sartography/nginx:alpine
+FROM nginx:stable-alpine
 RUN set -x && apk add --update --no-cache bash libintl gettext curl``
 
 COPY --from=builder /app/dist/* /etc/nginx/html/
