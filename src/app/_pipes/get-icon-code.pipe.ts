@@ -1,5 +1,5 @@
 import { Pipe, PipeTransform } from '@angular/core';
-import {FileType} from 'sartography-workflow-lib';
+import {FileType} from 'cr-connect-workflow-lib';
 
 @Pipe({
   name: 'getIconCode'

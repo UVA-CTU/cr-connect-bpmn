@@ -7,7 +7,7 @@ import {MatIconModule} from '@angular/material/icon';
 import {MatListModule} from '@angular/material/list';
 import {MatSnackBarModule} from '@angular/material/snack-bar';
 import {RouterTestingModule} from '@angular/router/testing';
-import {ApiService, MockEnvironment, mockWorkflowSpec0} from 'sartography-workflow-lib';
+import {ApiService, MockEnvironment, mockWorkflowSpec0} from 'cr-connect-workflow-lib';
 import {GetIconCodePipe} from '../_pipes/get-icon-code.pipe';
 import {FileListComponent} from '../file-list/file-list.component';
 import {WorkflowSpecCardComponent} from './workflow-spec-card.component';

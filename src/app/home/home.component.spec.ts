@@ -5,7 +5,7 @@ import {Component} from '@angular/core';
 import { ComponentFixture, TestBed, waitForAsync } from '@angular/core/testing';
 import {Router} from '@angular/router';
 import {RouterTestingModule} from '@angular/router/testing';
-import {ApiService, MockEnvironment} from 'sartography-workflow-lib';
+import {ApiService, MockEnvironment} from 'cr-connect-workflow-lib';
 
 import {HomeComponent} from './home.component';
 

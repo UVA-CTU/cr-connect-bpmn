@@ -3,7 +3,7 @@ import {HttpClientTestingModule, HttpTestingController} from '@angular/common/ht
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 import {MatIconModule} from '@angular/material/icon';
 import {MatMenuModule} from '@angular/material/menu';
-import {ApiService, MockEnvironment, mockWorkflowSpec0, mockWorkflowSpec1, WorkflowSpec} from 'sartography-workflow-lib';
+import {ApiService, MockEnvironment, mockWorkflowSpec0, mockWorkflowSpec1, WorkflowSpec} from 'cr-connect-workflow-lib';
 import {LibraryListComponent} from './library-list.component';
 
 

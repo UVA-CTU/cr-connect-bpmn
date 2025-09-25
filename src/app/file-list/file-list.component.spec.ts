@@ -19,7 +19,7 @@ import {
   mockFileMeta0,
   mockFileMetas, mockFiles,
   mockWorkflowSpec0
-} from 'sartography-workflow-lib';
+} from 'cr-connect-workflow-lib';
 import {DeleteFileDialogComponent} from '../_dialogs/delete-file-dialog/delete-file-dialog.component';
 import {DeleteFileDialogData} from '../_interfaces/dialog-data';
 import {GetIconCodePipe} from '../_pipes/get-icon-code.pipe';

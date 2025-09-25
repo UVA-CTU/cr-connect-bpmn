@@ -2,7 +2,7 @@ import { ComponentFixture, TestBed, waitForAsync } from '@angular/core/testing';
 import { MAT_DIALOG_DATA, MatDialogModule, MatDialogRef } from '@angular/material/dialog';
 import {MatIconModule} from '@angular/material/icon';
 import {BrowserAnimationsModule, NoopAnimationsModule} from '@angular/platform-browser/animations';
-import {mockWorkflowSpec0} from 'sartography-workflow-lib';
+import {mockWorkflowSpec0} from 'cr-connect-workflow-lib';
 import {DeleteWorkflowSpecDialogData} from '../../_interfaces/dialog-data';
 
 import { DeleteWorkflowSpecDialogComponent } from './delete-workflow-spec-dialog.component';

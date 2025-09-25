@@ -1,6 +1,6 @@
 import {Component, Inject} from '@angular/core';
 import {Router} from '@angular/router';
-import {ApiService, AppEnvironment, GoogleAnalyticsService, isSignedIn, User} from 'sartography-workflow-lib';
+import {ApiService, AppEnvironment, GoogleAnalyticsService, isSignedIn, User} from 'cr-connect-workflow-lib';
 
 interface NavItem {
   path?: string;

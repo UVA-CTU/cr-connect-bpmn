@@ -1,4 +1,4 @@
-import {FileType} from 'sartography-workflow-lib';
+import {FileType} from 'cr-connect-workflow-lib';
 import { GetIconCodePipe } from './get-icon-code.pipe';
 
 describe('GetIconCodePipe', () => {

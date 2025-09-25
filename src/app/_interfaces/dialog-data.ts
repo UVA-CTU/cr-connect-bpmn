@@ -1,4 +1,4 @@
-import {FileMeta, FileType, WorkflowSpec, WorkflowSpecCategory} from 'sartography-workflow-lib';
+import {FileMeta, FileType, WorkflowSpec, WorkflowSpecCategory} from 'cr-connect-workflow-lib';
 
 export interface FileMetaDialogData {
   id?: number;

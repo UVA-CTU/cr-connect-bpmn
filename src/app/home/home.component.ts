@@ -1,5 +1,5 @@
 import {Component} from '@angular/core';
-import {ApiService, isSignedIn} from 'sartography-workflow-lib';
+import {ApiService, isSignedIn} from 'cr-connect-workflow-lib';
 
 @Component({
   selector: 'app-home',

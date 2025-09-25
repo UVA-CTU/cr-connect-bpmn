@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import {ApiService} from 'sartography-workflow-lib';
+import {ApiService} from 'cr-connect-workflow-lib';
 import {MatDialogRef} from "@angular/material/dialog";
 import {UntypedFormGroup} from "@angular/forms";
 import {FormlyFieldConfig, FormlyFormOptions} from "@ngx-formly/core";

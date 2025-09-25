@@ -1,7 +1,7 @@
 import {Component, Inject} from '@angular/core';
 import {MatIconRegistry} from '@angular/material/icon';
 import {DomSanitizer, Title} from '@angular/platform-browser';
-import {AppEnvironment, FileType, GoogleAnalyticsService} from 'sartography-workflow-lib';
+import {AppEnvironment, FileType, GoogleAnalyticsService} from 'cr-connect-workflow-lib';
 
 @Component({
   selector: 'app-root',

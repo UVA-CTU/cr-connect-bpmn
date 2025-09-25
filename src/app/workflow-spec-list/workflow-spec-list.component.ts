@@ -10,7 +10,7 @@ import {
   // moveArrayElementUp,
   WorkflowSpec,
   WorkflowSpecCategory,
-} from 'sartography-workflow-lib';
+} from 'cr-connect-workflow-lib';
 import {
   DeleteWorkflowSpecCategoryDialogComponent
 } from '../_dialogs/delete-workflow-spec-category-dialog/delete-workflow-spec-category-dialog.component';
@@ -30,7 +30,7 @@ import { UntypedFormControl } from '@angular/forms';
 import { SettingsService } from '../settings.service';
  import { MatButtonModule } from '@angular/material/button';
 import {GitRepoDialogComponent} from "../git-repo-dialog/git-repo-dialog.component";
-import {GitRepo} from "sartography-workflow-lib/lib/types/git";
+import {GitRepo} from "cr-connect-workflow-lib/lib/types/git";
 import {GitMergeDialogComponent} from "../git-merge-dialog/git-merge-dialog.component";
 
 

@@ -5,7 +5,7 @@ import {MatIconModule} from '@angular/material/icon';
 import {MatMenuModule} from '@angular/material/menu';
 import {Router} from '@angular/router';
 import {RouterTestingModule} from '@angular/router/testing';
-import {ApiService, MockEnvironment, mockUser0} from 'sartography-workflow-lib';
+import {ApiService, MockEnvironment, mockUser0} from 'cr-connect-workflow-lib';
 import { NavbarComponent } from './navbar.component';
 
 

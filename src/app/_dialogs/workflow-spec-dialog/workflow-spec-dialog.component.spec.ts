@@ -17,7 +17,7 @@ import {
   mockWorkflowSpec0,
   mockWorkflowSpecCategories,
   mockWorkflowSpecs
-} from 'sartography-workflow-lib';
+} from 'cr-connect-workflow-lib';
 import {WorkflowSpecDialogData} from '../../_interfaces/dialog-data';
 
 import {WorkflowSpecDialogComponent} from './workflow-spec-dialog.component';

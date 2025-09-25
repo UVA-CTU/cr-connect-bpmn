@@ -29,7 +29,7 @@ import {
   mockFileMetas,
   mockWorkflowSpec0,
   mockWorkflowSpecs,
-} from 'sartography-workflow-lib';
+} from 'cr-connect-workflow-lib';
 import { BPMN_DIAGRAM, BPMN_DIAGRAM_EMPTY } from '../../testing/mocks/diagram.mocks';
 import { FileMetaDialogComponent } from '../_dialogs/file-meta-dialog/file-meta-dialog.component';
 import { NewFileDialogComponent } from '../_dialogs/new-file-dialog/new-file-dialog.component';

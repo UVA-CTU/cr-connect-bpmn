@@ -12,7 +12,7 @@ import {
   isNumberDefined,
   newFileFromResponse,
   WorkflowSpec,
-} from 'sartography-workflow-lib';
+} from 'cr-connect-workflow-lib';
 import {FileMetaDialogComponent} from '../_dialogs/file-meta-dialog/file-meta-dialog.component';
 import {NewFileDialogComponent} from '../_dialogs/new-file-dialog/new-file-dialog.component';
 import {ConfirmDialogComponent} from '../_dialogs/confirm-dialog/confirm-dialog.component';

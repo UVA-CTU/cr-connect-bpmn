@@ -2,7 +2,7 @@ import { ComponentFixture, TestBed, waitForAsync } from '@angular/core/testing';
 import { MAT_DIALOG_DATA, MatDialog, MatDialogModule, MatDialogRef } from '@angular/material/dialog';
 import {MatIconModule} from '@angular/material/icon';
 import {BrowserAnimationsModule, NoopAnimationsModule} from '@angular/platform-browser/animations';
-import {FileType} from 'sartography-workflow-lib';
+import {FileType} from 'cr-connect-workflow-lib';
 import {NewFileDialogData} from '../../_interfaces/dialog-data';
 import {GetIconCodePipe} from '../../_pipes/get-icon-code.pipe';
 

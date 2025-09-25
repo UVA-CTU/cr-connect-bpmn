@@ -7,7 +7,7 @@ import {MatInputModule} from '@angular/material/input';
 import {BrowserAnimationsModule, NoopAnimationsModule} from '@angular/platform-browser/animations';
 import {FormlyModule} from '@ngx-formly/core';
 import {FormlyMaterialModule} from '@ngx-formly/material';
-import {mockWorkflowSpecCategory0, MockEnvironment, ApiService } from 'sartography-workflow-lib';
+import {mockWorkflowSpecCategory0, MockEnvironment, ApiService } from 'cr-connect-workflow-lib';
 import {WorkflowSpecCategoryDialogData} from '../../_interfaces/dialog-data';
 import {WorkflowSpecCategoryDialogComponent} from './workflow-spec-category-dialog.component';
 import {APP_BASE_HREF} from "@angular/common";

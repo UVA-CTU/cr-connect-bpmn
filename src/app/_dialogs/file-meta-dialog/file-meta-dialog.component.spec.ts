@@ -6,7 +6,7 @@ import {MatInputModule} from '@angular/material/input';
 import {BrowserAnimationsModule, NoopAnimationsModule} from '@angular/platform-browser/animations';
 import {FormlyModule} from '@ngx-formly/core';
 import {FormlyMaterialModule} from '@ngx-formly/material';
-import {FileType} from 'sartography-workflow-lib';
+import {FileType} from 'cr-connect-workflow-lib';
 import {FileMetaDialogData} from '../../_interfaces/dialog-data';
 import {FileMetaDialogComponent} from './file-meta-dialog.component';
 import { cloneDeep } from 'lodash';

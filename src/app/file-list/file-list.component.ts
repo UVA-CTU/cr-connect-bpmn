@@ -11,7 +11,7 @@ import {
   isNumberDefined,
   newFileFromResponse,
   WorkflowSpec,
-} from 'sartography-workflow-lib';
+} from 'cr-connect-workflow-lib';
 import { DeleteFileDialogComponent } from '../_dialogs/delete-file-dialog/delete-file-dialog.component';
 import { OpenFileDialogComponent } from '../_dialogs/open-file-dialog/open-file-dialog.component';
 import { DeleteFileDialogData, OpenFileDialogData } from '../_interfaces/dialog-data';

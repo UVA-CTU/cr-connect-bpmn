@@ -21,7 +21,7 @@ import {
   CameltoSnakeCase,
   DMN_DIAGRAM_DEFAULT,
   FileType,
-} from 'sartography-workflow-lib';
+} from 'cr-connect-workflow-lib';
 import { v4 as uuidv4 } from 'uuid';
 import { BpmnError, BpmnWarning } from '../_interfaces/bpmn-warning';
 import { ImportEvent } from '../_interfaces/import-event';

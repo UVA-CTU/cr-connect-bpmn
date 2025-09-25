@@ -9,7 +9,7 @@ import {MatInputModule} from '@angular/material/input';
 import {BrowserAnimationsModule, NoopAnimationsModule} from '@angular/platform-browser/animations';
 import {Router} from '@angular/router';
 import {RouterTestingModule} from '@angular/router/testing';
-import {ApiService, MockEnvironment, mockFile0, mockFileMeta0} from 'sartography-workflow-lib';
+import {ApiService, MockEnvironment, mockFile0, mockFileMeta0} from 'cr-connect-workflow-lib';
 import {OpenFileDialogData} from '../../_interfaces/dialog-data';
 
 import { OpenFileDialogComponent } from './open-file-dialog.component';

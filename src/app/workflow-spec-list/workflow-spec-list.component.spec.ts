@@ -25,9 +25,9 @@ import {
   mockWorkflowSpecCategory1,
   mockWorkflowSpecs,
   WorkflowSpec
-} from 'sartography-workflow-lib';
-import {GitRepo} from "sartography-workflow-lib/lib/types/git";
-import {ApiError} from 'sartography-workflow-lib/lib/types/api';
+} from 'cr-connect-workflow-lib';
+import {GitRepo} from "cr-connect-workflow-lib/lib/types/git";
+import {ApiError} from 'cr-connect-workflow-lib/lib/types/api';
 import {
   DeleteWorkflowSpecDialogComponent
 } from '../_dialogs/delete-workflow-spec-dialog/delete-workflow-spec-dialog.component';

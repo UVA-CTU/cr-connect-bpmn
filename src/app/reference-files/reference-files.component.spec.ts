@@ -12,7 +12,7 @@ import {RouterTestingModule} from '@angular/router/testing';
 import * as FileSaver from 'file-saver';
 import { cloneDeep } from 'lodash';
 import {of} from 'rxjs';
-import {ApiService, FileMeta, FileType, MockEnvironment, mockFileMetaReference0, mockFileReference0} from 'sartography-workflow-lib';
+import {ApiService, FileMeta, FileType, MockEnvironment, mockFileMetaReference0, mockFileReference0} from 'cr-connect-workflow-lib';
 import {OpenFileDialogComponent} from '../_dialogs/open-file-dialog/open-file-dialog.component';
 import {ReferenceFilesComponent} from './reference-files.component';
 

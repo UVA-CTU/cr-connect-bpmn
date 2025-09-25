@@ -1,7 +1,7 @@
 import {APP_BASE_HREF} from '@angular/common';
 import {Injectable, NgModule} from '@angular/core';
 import {ExtraOptions, RouterModule, Routes} from '@angular/router';
-import {AppEnvironment, SessionRedirectComponent} from 'sartography-workflow-lib';
+import {AppEnvironment, SessionRedirectComponent} from 'cr-connect-workflow-lib';
 import {environment} from '../environments/environment.runtime';
 import {HomeComponent} from './home/home.component';
 import {ModelerComponent} from './modeler/modeler.component';

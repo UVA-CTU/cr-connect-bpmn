@@ -27,7 +27,7 @@ import {
   SartographyFormsModule,
   SartographyPipesModule,
   SartographyWorkflowLibModule,
-} from 'sartography-workflow-lib';
+} from 'cr-connect-workflow-lib';
 import { environment } from '../environments/environment.runtime';
 import { DeleteFileDialogComponent } from './_dialogs/delete-file-dialog/delete-file-dialog.component';
 import {
@@ -154,4 +154,3 @@ export const getBaseHref = (platformLocation: PlatformLocation): string => platf
 })
 export class AppModule {
 }
-

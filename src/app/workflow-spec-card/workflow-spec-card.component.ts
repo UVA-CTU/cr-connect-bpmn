@@ -1,5 +1,5 @@
 import {Component, Input, TemplateRef} from '@angular/core';
-import { WorkflowSpec} from 'sartography-workflow-lib';
+import { WorkflowSpec} from 'cr-connect-workflow-lib';
 
 
 @Component({

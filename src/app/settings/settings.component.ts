@@ -1,6 +1,6 @@
 import {Component, Input, OnInit, Output} from '@angular/core';
-import {Study} from 'sartography-workflow-lib/lib/types/study';
-import {ApiService} from 'sartography-workflow-lib';
+import {Study} from 'cr-connect-workflow-lib/lib/types/study';
+import {ApiService} from 'cr-connect-workflow-lib';
 import {SettingsService} from '../settings.service';
 
 @Component({

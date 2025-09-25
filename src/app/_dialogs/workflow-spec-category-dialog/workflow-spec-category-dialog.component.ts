@@ -2,7 +2,7 @@ import {Component, Inject} from '@angular/core';
 import {UntypedFormControl, UntypedFormGroup} from '@angular/forms';
 import {MAT_DIALOG_DATA, MatDialogRef} from '@angular/material/dialog';
 import {FormlyFieldConfig, FormlyFormOptions} from '@ngx-formly/core';
-import {ApiService, toSnakeCase} from 'sartography-workflow-lib';
+import {ApiService, toSnakeCase} from 'cr-connect-workflow-lib';
 import {WorkflowSpecCategoryDialogData} from '../../_interfaces/dialog-data';
 import {of} from "rxjs";
 

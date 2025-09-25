@@ -2,7 +2,7 @@ import {AfterViewInit, Component, Inject, ViewChild} from '@angular/core';
 import {FormControl, UntypedFormGroup} from '@angular/forms';
 import {MAT_DIALOG_DATA, MatDialogRef} from '@angular/material/dialog';
 import {FormlyFieldConfig, FormlyFormOptions} from '@ngx-formly/core';
-import {cleanUpFilename, FileType, FileFieldComponent, ApiService} from 'sartography-workflow-lib';
+import {cleanUpFilename, FileType, FileFieldComponent, ApiService} from 'cr-connect-workflow-lib';
 import {FileMetaDialogData} from '../../_interfaces/dialog-data';
 
 @Component({

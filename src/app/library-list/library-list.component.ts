@@ -2,7 +2,7 @@ import {Component, Input, OnChanges, OnInit} from '@angular/core';
 import {
   ApiService,
   WorkflowSpec
-} from 'sartography-workflow-lib';
+} from 'cr-connect-workflow-lib';
 
 @Component({
   selector: 'app-library-list',

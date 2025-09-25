@@ -12,7 +12,7 @@ import {
   DMN_DIAGRAM_DEFAULT,
   FileType,
   MockEnvironment,
-} from 'sartography-workflow-lib';
+} from 'cr-connect-workflow-lib';
 import {
   BPMN_DIAGRAM,
   BPMN_DIAGRAM_WITH_WARNINGS,
